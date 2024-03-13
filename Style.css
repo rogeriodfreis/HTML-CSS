@@ -1,1 +1,8 @@
-
+@charset "UTF-8";
+body
+(
+background-color: green;
+color: chocolate;
+font-size: 12pt;
+font-family:Arial;
+)
