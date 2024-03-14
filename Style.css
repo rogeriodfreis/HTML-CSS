@@ -1,8 +1,10 @@
 @charset "UTF-8";
+
 body
-(
+{
 background-color: black;
 color: red;
 font-size: 12pt;
 font-family:Arial;
-)
+}
+
