@@ -76,7 +76,10 @@ table
     color: black;
     font-size: 20pt;
     font-family:Arial;   
-    table, td, th, tfoot {border: 3px; black; padding:5px;}  
+    table, td, th, tfoot 
+        {
+            border: 3px solid;
+        }  
     td {color: blue;}
     text-align: center;  
     margin: auto;    
